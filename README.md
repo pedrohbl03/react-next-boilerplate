@@ -27,7 +27,7 @@ In terminal commnd line type:
 
 ```sh
 npx create-next-app@latest --ts --example https://github.com/pedrohbl03/react-next-boilerplate.git
-cd your-project-name;
+cd your-project-name
 npm run build
 ```
 
