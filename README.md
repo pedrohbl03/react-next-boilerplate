@@ -15,7 +15,7 @@ This boilerplate contains:
 
 
 ## Style Guide
-This boilerplate use the google style guide by ES Lint 
+This boilerplate use the google style guide by ESLint and Prettier
 
 Google style guide is based on ES2015+ Version of ECMAScrip
 You can see more about in https://google.github.io/styleguide/jsguide.html
