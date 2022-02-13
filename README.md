@@ -1,8 +1,7 @@
 # react-next-boilerplate
-
 This is my first boilerplate. 
 
-## LIBS 
+## What's in that boilerplate?
 This boilerplate contains:
 
 - React;
