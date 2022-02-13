@@ -26,7 +26,7 @@ Requires [Node.js](https://nodejs.org/) v10+ to run.
 In terminal commnd line type: 
 
 ```sh
-npx create-next-app@latest --ts --example https://github.com/pedrohbl03/react-next-boilerplate.git
+npx create-next-app@latest --ts --example https://github.com/pedrohbl03/react-next-boilerplate
 cd your-project-name
 npm run build
 ```
